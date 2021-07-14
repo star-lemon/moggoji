@@ -1,0 +1,29 @@
+{
+  "name": "moggoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "cookie-parser": "^1.4.5",
+    "cookieparser": "^0.1.0",
+    "createerror": "^1.3.0",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "logger": "0.0.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "router": "^1.3.5"
+  },
+  "devDependencies": {
+    "http-errors": "^1.8.0"
+  }
+}
